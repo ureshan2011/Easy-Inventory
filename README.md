@@ -1,4 +1,4 @@
-# Easy-Inventory
+# Easy-Inventory Project for HCI
 Simple inventory management system build in Swing Java. It uses MySQL to store data. This can be use in small store and manage personal stuff.
 
 ###Layouts
